@@ -12,20 +12,26 @@ body {
     align-items: center;
     
 }
-article {
+.card {
     max-width: 400px;
     background-color: white;
+    box-shadow: 3px 1px 10px 1px black;
     padding: 10px;
     border-radius: 10px;
     height: auto;
     font-family: 'Montserrat', sans-serif;
     display: block;
 } 
-p {
+
+.bx {
+    font-size: 70px;
+}
+.text_quote {
     font-size: 20px;
+    margin: 0;
 }
 
-h2 {
+.author_quote {
     margin-left: auto;
     width: max-content;
     font-weight:bolds;
