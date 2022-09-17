@@ -1,7 +1,6 @@
 import React from 'react'
 import Button from './Button'
-// import 'boxicons'
-
+// QUOTEBOX IS A CONTAINER THAT CONTENT A TITLE AND PARAGRAPH
 const QuoteBox = ({random, randomColor, firstAll}) => {
     
     const colorObj = {
